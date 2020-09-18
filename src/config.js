@@ -1,0 +1,1 @@
+export const GRAPHQL_URI = 'https://fakeql.com/graphql/40a0ed75964552add53b011419bde0b3';
